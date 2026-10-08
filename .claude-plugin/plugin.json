@@ -1,0 +1,6 @@
+{
+  "name": "tokemon",
+  "version": "0.1.0",
+  "description": "A tamagotchi that lives in Claude Code: your coding feeds it, /pet looks after it.",
+  "types": "./types/index.d.ts"
+}

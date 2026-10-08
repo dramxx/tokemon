@@ -1,0 +1,5 @@
+{
+  "name": "tokemon",
+  "owner": { "name": "Drahoslav Madar" },
+  "plugins": [{ "name": "tokemon", "source": "./" }]
+}
